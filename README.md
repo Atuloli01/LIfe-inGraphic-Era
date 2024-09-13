@@ -1,1 +1,3 @@
-# LIfe-inGraphic-Era
+# Life-inGraphic-Era
+
+SHow casing the view and nature of my college...
